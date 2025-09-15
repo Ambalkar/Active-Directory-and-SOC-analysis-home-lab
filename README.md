@@ -1,3 +1,18 @@
+<img width="1919" height="1079" alt="login into active directory server" src="https://github.com/user-attachments/assets/130d8d8a-2cda-4543-b347-6c36f059afbf" />
+<img width="1918" height="1079" alt="login into splunk server" src="https://github.com/user-attachments/assets/735f8cb3-defc-4475-b450-31d2813e3628" />
+<img width="1919" height="1079" alt="check status of splunk server" src="https://github.com/user-attachments/assets/018334cb-6576-462b-a0ad-03473034ae16" />
+<img width="1919" height="1079" alt="create new user and assign client pc to new user" src="https://github.com/user-attachments/assets/732370b7-befd-4674-b3f6-459b08a200d3" />
+<img width="1919" height="1079" alt="new user login into client pc" src="https://github.com/user-attachments/assets/9952e5fd-496c-4577-8677-37a1ac063291" />
+<img width="1919" height="1078" alt="configurations of client pc " src="https://github.com/user-attachments/assets/239d5b2b-8b18-4784-8d76-105fb1956cf3" />
+<img width="1919" height="1079" alt="new user login logs in splunk dashboard on AD server" src="https://github.com/user-attachments/assets/2c4ca1d1-d22c-4632-b7c5-7919f8272a13" />
+<img width="1555" height="993" alt="Bruteforce attack on client pc" src="https://github.com/user-attachments/assets/daec2fb9-3079-4ccc-99e4-a840166931f5" />
+<img width="1919" height="1079" alt="attack logs in splunk dashboard in AD server" src="https://github.com/user-attachments/assets/a68905d7-4b79-48bd-b968-e3bc9a478be9" />
+
+
+
+
+
+
 # 🛡️ Active Directory & SOC Analysis Home Lab
 
 A fully functional **Active Directory (AD) and Security Operations Center (SOC) Home Lab** built on **Oracle VirtualBox**.  
